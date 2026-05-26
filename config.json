@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userfncrypt",
+        "uuid": 6979150,
+        "checksum": "mev6w"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
